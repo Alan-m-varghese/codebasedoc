@@ -1,0 +1,6 @@
+{
+  "name": "Codebase Doctor",
+  "description": "Multi-language repository health analyzer, dependency graph visualizer, risk & blast-radius detector, and AI code architecture doctor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
